@@ -1,0 +1,14 @@
+[
+  {
+    "id": "studio",
+    "name": "Appartement Studio",
+    "price": 100,
+    "income": 2
+  },
+  {
+    "id": "bitcoin",
+    "name": "Mining Bitcoin",
+    "price": 500,
+    "income": 8
+  }
+]
