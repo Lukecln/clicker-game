@@ -1,27 +1,8 @@
-body {
-  font-family: 'Arial', sans-serif;
-  background: #f8f9fa;
-  text-align: center;
-  padding: 50px;
+#buy-options button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-weight: bold;
 }
-
-#balance {
-  font-size: 2em;
-  margin: 20px 0;
-}
-
-button {
-  padding: 15px 30px;
-  font-size: 1.2em;
-  margin: 10px;
-  cursor: pointer;
-}
-
 .asset {
-  border: 1px solid #ccc;
-  padding: 10px;
-  margin: 15px auto;
-  width: 300px;
-  background: white;
-  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
