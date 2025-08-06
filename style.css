@@ -1,8 +1,22 @@
-#buy-options button {
-  margin: 5px;
-  padding: 10px 20px;
-  font-weight: bold;
-}
-.asset {
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
+[
+  #buy-options button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+  }
+  .asset {
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  {
+    "id": "studio",
+    "name": "Appartement Studio",
+    "price": 100,
+    "income": 2
+  },
+  {
+    "id": "bitcoin",
+    "name": "Mining Bitcoin",
+    "price": 500,
+    "income": 8
+  }
+]
